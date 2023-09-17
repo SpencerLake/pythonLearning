@@ -27,6 +27,8 @@ print(result)
 print(s[1])
 print(s[4])
 print(s[len(s)-1])
+#reverse string
+print(s[::-1])
 
 
 #LISTS
